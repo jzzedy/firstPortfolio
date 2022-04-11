@@ -1,0 +1,32 @@
+.bg2{
+    background: #161b22;
+}
+.receive{
+    background:#10101a;
+    color: white;
+    text-align: center;
+    margin-top: 25rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    border-radius: 5px;
+}
+.return-btn{
+    background: rgb(76, 76, 209);
+    color: #fff;
+    box-shadow: 4px 4px #fff;
+    padding: 0 25px;
+    line-height: 42px;
+    display: inline-block;
+    border: 1px solid transparent;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    transition: ease all 0.35s;
+    cursor: pointer;
+
+}
+.return-btn:hover{
+    background: #fff;
+    color: rgb(61, 57, 57);
+    box-shadow: 4px 4px rgb(76, 76, 209);
+}

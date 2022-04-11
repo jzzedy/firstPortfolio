@@ -19,4 +19,4 @@ const sr =ScrollReveal ({
 
 sr.reveal('.home-text',{delay: 200, origin: 'top'})
 sr.reveal('.home-img',{delay: 400, origin: 'top'})
-sr.reveal('.about, .skills, .quest, .education, .contact, .rights', {delay: 200, origin: 'top'})
+sr.reveal('.about, .skills, .quest, .education, .contact, .rights, .received', {delay: 200, origin: 'top'})
