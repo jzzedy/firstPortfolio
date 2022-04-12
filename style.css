@@ -249,7 +249,10 @@ section{
 }
 .container{
     background: rgb(61, 57, 57);
-    padding: 40px 30px;
+    padding-top 40px;
+    padding-bottom: 40px;
+    padding-left:25px;
+    padding right: 25px;
     border-radius: 5px;
     cursor: pointer;
     transition: all .40s;
